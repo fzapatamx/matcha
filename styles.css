@@ -1,0 +1,22 @@
+h1 {
+    color: #025157;
+    font-weight: bolder;
+    text-align: center;
+
+form {
+    text-align: center;
+}
+
+.textocent {
+    text-align: center;
+    color: #46484c
+}
+
+button{
+    color: #ffffff;
+    background-color: #025157;
+}
+
+body{
+    background-color: #fffff7;
+}
